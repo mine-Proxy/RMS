@@ -309,12 +309,12 @@ clear
 
 echo "------RMS Linux------"
 echo "请选择下载线路:"
-echo "1. 线路1（github线路，下面为国内CDN）"
+echo "1. 线路1（github官方地址, 如无法下载请选择其他线路）"
 echo "2. 线路2"
 echo "3. 线路3"
 echo "4. 线路4"
-
 echo "---------------------"
+
 
 read -p "$(echo -e "[1-4]：")" targetRoute
 
