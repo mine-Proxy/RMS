@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#bash <(curl -s -L https://raw.githubusercontent.com/mine-Proxy/RMS/main/install.sh)
+#bash <(curl -s -L https://raw.githubusercontent.com/EvilGenius-dot/RMS/main/install.sh)
 #bash <(curl -s -L -k https://raw.njuu.cf/EvilGenius-dot/RMS/main/install.sh)
 #bash <(curl -s -L -k https://raw.yzuu.cf/EvilGenius-dot/RMS/main/install.sh)
 #bash <(curl -s -L -k https://raw.nuaa.cf/EvilGenius-dot/RMS/main/install.sh)
